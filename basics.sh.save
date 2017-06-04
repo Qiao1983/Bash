@@ -123,15 +123,14 @@ echo $(s1=s2)
 echo $(s1!=s2)
 
 #Arithmetic relational operators
+ -lt (<)
 
-#-lt (<)
+-gt (>)
 
-#-gt (>)
+-le (<=)
 
-#-le (<=)
+-ge (>=)
 
-#-ge (>=)
+-eq (==)
 
-#-eq (==)
-
-#-ne (!=) 
+-ne (!=)

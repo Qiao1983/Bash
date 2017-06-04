@@ -1,0 +1,6 @@
+#!bin/bash
+#sed (stream editor)
+#awk (manipulation of datafiles, text retrieval and processing)
+#grep (print lines matching a search pattern)
+#wc (counts lines, words and bytes)
+#sort (sort lines of text files)
